@@ -1,0 +1,11 @@
+<?php
+
+$conn = mysqli_connect("localhost","root","","bdtgame");
+
+if(!$conn){
+die("Database Error");
+}
+
+session_start();
+
+?>
