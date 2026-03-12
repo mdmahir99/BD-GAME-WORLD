@@ -50,4 +50,4 @@ include "config/config.php";
 <script src="assets/script.js"></script>
 
 </body>
-</html># BD-GAME-WORLD
+</html>
